@@ -1,0 +1,71 @@
+/* 初期化 */
+/* start */
+* {
+    background-color: #fffdfa;
+}
+
+ul {
+    list-style: none;
+}
+
+/* end */
+
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    margin: 0rem;
+}
+
+.nav-logo {
+    font-size: 1em;
+    margin: 2rem;
+}
+
+.nav-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.nav-row li {
+    margin-right: 2rem;
+}
+
+* {
+    background-color: #fffdfa;
+}
+
+nav-logo {
+    font-size: 10rm;
+}
+
+.container {
+    background-color: rebeccapurple;
+}
+
+.container * {
+    background-color: rebeccapurple;
+}
+
+.element-h {
+    background-color: antiquewhite;
+    margin: 2rem;
+    text-align: center;
+}
+
+.container {
+    background-color: rebeccapurple;
+}
+
+.container * {
+    background-color: rebeccapurple;
+}
+
+.element-h {
+    background-color: antiquewhite;
+    margin: 2rem;
+    text-align: center;
+}
