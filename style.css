@@ -1,71 +1,28 @@
-/* 初期化 */
-/* start */
-* {
-    background-color: #fffdfa;
-}
-
 ul {
     list-style: none;
 }
 
-/* end */
-
-
-
-nav {
+.header-inner {
     display: flex;
-    flex-direction: row;
-    height: 20px;
-    margin: 0rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
 }
 
-.nav-logo {
-    font-size: 1em;
-    margin: 2rem;
+.header-logo {
+    height: 50px;
+    width: 50px;
+    background-color: black;
 }
 
-.nav-row {
+.inner-site-menu{
+}
+
+.site-menu ul {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
 }
 
-.nav-row li {
+.site-menu li {
     margin-right: 2rem;
-}
-
-* {
-    background-color: #fffdfa;
-}
-
-nav-logo {
-    font-size: 10rm;
-}
-
-.container {
-    background-color: rebeccapurple;
-}
-
-.container * {
-    background-color: rebeccapurple;
-}
-
-.element-h {
-    background-color: antiquewhite;
-    margin: 2rem;
-    text-align: center;
-}
-
-.container {
-    background-color: rebeccapurple;
-}
-
-.container * {
-    background-color: rebeccapurple;
-}
-
-.element-h {
-    background-color: antiquewhite;
-    margin: 2rem;
-    text-align: center;
 }
